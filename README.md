@@ -14,7 +14,7 @@
 # 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,matlab,linux,bash,git,github,html,css,javascript,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,matlab,linux,bash,git,github,html,css,javascript,vscode" />
 </p>
 
 <p align="center">
@@ -92,9 +92,10 @@ education:
   - Postgraduate Student in Software Engineering
 
 background:
-  - Industrial Systems
-  - Automation
-  - Intelligent Systems
+  - Electrical Engineering
+  - Industrial Automation
+  - Arduino & Embedded Prototyping
+  - Technical Problem Solving
 
 software_foundation:
   - Python
