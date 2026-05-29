@@ -13,9 +13,11 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eng.felipeabrahao@gmail.com)
 
 
-![Felipe Abrahão GitHub stats](https://github-readme-stats.vercel.app/api?username=eng-felipeabrahao&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&locale=pt-br)
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=eng-felipeabrahao&theme=tokyo-night&hide_border=true"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eng-felipeabrahao&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=eng-felipeabrahao&theme=tokyonight&hide_border=true"/>
+</p>
 
 
 <!---
