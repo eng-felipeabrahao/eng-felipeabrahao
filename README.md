@@ -10,16 +10,17 @@
 
 <br>
 
+
 # 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,kubernetes,linux,bash,git,github,aws,mysql,mongodb,nodejs,javascript,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,c,matlab,linux,bash,git,github,html,css,javascript,vscode" />
 </p>
 
 <p align="center">
   <i>
-    Electrical Engineer transitioning into Software Engineering with focus on
-    AI, Data Engineering, Intelligent Industrial Systems and Cloud Infrastructure
+    Electrical Engineer and Software Engineering postgraduate student focused on
+    AI, Data Engineering, Intelligent Industrial Systems and Cloud Infrastructure.
   </i>
 </p>
 
@@ -96,22 +97,25 @@ background:
   - Intelligent Systems
 
 software_foundation:
+  - Python
+  - C
+  - MATLAB
   - HTML
   - CSS
-  - Bootstrap
   - JavaScript
+  - Linux
+  - Git
 
 current_focus:
   - Python Backend
   - AI & Data Engineering
-  - Cloud & DevOps
+  - Cloud & Infrastructure Fundamentals
   - IoT & Industrial Applications
 
 learning:
   - FastAPI
   - PostgreSQL
   - Docker
-  - Kubernetes
   - AWS
   - Machine Learning
   - Edge Computing
