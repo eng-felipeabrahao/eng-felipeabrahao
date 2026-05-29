@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineer;AI+%26+Data+Engineering;Industrial+Systems;IoT+%26+Automation;Linux+%26+Cloud" alt="Typing SVG" />
 </p>
 
----
+<br>
 
 # 🚀 Tech Stack
 
@@ -23,7 +23,7 @@
   </i>
 </p>
 
----
+<br>
 
 # 📊 GitHub Analytics
 
@@ -41,7 +41,7 @@
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eng-felipeabrahao&theme=tokyonight" />
 </p>
 
----
+<br>
 
 # 📈 Activity Graph
 
@@ -49,7 +49,7 @@
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=eng-felipeabrahao&theme=tokyo-night&hide_border=true" />
 </p>
 
----
+<br>
 
 # 🌎 Connect with me
 
@@ -69,7 +69,7 @@
 
 </p>
 
----
+<br>
 
 # ⚡ About Me
 
@@ -124,7 +124,7 @@ interests:
   - Open Source
 ```
 
----
+<br>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=eng-felipeabrahao&label=Profile%20views&color=0e75b6&style=flat" />
