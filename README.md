@@ -11,7 +11,7 @@
 <br>
 
 
-# 🚀 Tech Stack
+<h2 align="center">Stack & Tools</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,matlab,linux,bash,git,github,html,css,javascript,vscode" />
@@ -26,7 +26,7 @@
 
 <br>
 
-# 📊 GitHub Analytics
+<h2 align="center">Metrics</h2>
 
 <p align="center">
   <img width="49%" src="https://streak-stats.demolab.com?user=eng-felipeabrahao&theme=tokyonight&hide_border=true" />
@@ -44,7 +44,7 @@
 
 <br>
 
-# 📈 Activity Graph
+<h2 align="center">Activity Graph</h2>
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=eng-felipeabrahao&theme=tokyo-night&hide_border=true" />
@@ -52,7 +52,7 @@
 
 <br>
 
-# 🌎 Connect with me
+<h2 align="center">Contact</h2>
 
 <p align="center">
   <a href="https://github.com/eng-felipeabrahao" style = "text-decoration: none;"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -62,7 +62,7 @@
 
 <br>
 
-# ⚡ About Me
+<h2 align="center">About Me</h2>
 
 <p align="center">
   <i>
