@@ -88,7 +88,7 @@ name: Felipe Abrahão
 located_in: Brazil
 
 education:
-  - Electrical Engineering
+  - Bachelor's Degree in Electrical Engineering
   - Postgraduate Student in Software Engineering
 
 background:
