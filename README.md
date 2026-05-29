@@ -55,15 +55,13 @@
 # 🌎 Connect with me
 
 <p align="center">
-  <a href="https://github.com/eng-felipeabrahao" style="text-decoration:none;">
+  <a href="https://github.com/eng-felipeabrahao">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/felipeabrahao/" style="text-decoration:none;">
+  </a><!--
+  --><a href="https://www.linkedin.com/in/felipeabrahao/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:eng.felipeabrahao@gmail.com" style="text-decoration:none;">
+  </a><!--
+  --><a href="mailto:eng.felipeabrahao@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
