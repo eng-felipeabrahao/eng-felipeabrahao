@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu sou Felipe Abrahão</h1>
+<h1 align="center">Felipe Abrahão</h1>
 
 <p align="center">
   Software Engineer • AI • Data • Industrial Systems
